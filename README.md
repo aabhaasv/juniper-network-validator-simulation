@@ -22,3 +22,11 @@ I built this while preparing for my software engineering internship at **Juniper
 
 ```bash
 python validate_network.py --config topology.json
+
+## 🎥 Demo
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/09fj_a1M4Js/0.jpg)](https://youtu.be/09fj_a1M4Js)
+
+👉 Click the image above to watch the full 40s demo video on YouTube
+
+
