@@ -1,0 +1,8 @@
+{
+    "nodes": [
+      { "name": "Router1", "ip": "8.8.8.8" },
+      { "name": "Router2", "ip": "192.0.2.1" },
+      { "name": "Router3", "ip": "1.1.1.1" }
+    ]
+  }
+  

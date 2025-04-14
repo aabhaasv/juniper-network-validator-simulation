@@ -1,0 +1,22 @@
+{
+  "reachable": 2,
+  "unreachable": 1,
+  "total": 3,
+  "results": [
+    {
+      "name": "Router1",
+      "ip": "8.8.8.8",
+      "status": "reachable"
+    },
+    {
+      "name": "Router2",
+      "ip": "192.0.2.1",
+      "status": "unreachable"
+    },
+    {
+      "name": "Router3",
+      "ip": "1.1.1.1",
+      "status": "reachable"
+    }
+  ]
+}
