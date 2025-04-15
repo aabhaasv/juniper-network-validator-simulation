@@ -2,6 +2,7 @@
 
 **Built by Aabhaas Vijayvergia**  
 *April 14, 2025*
+Version 1.0
 
 ## 📌 About the Project
 
