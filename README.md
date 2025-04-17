@@ -1,8 +1,8 @@
 # 🔧 Network Reachability Validator
 
 **Built by Aabhaas Vijayvergia**  
-*April 14, 2025*
-*Version 1.0*
+*April 14, 2025*<br>
+*Version 1.0*<br>
 
 ## 📌 About the Project
 
